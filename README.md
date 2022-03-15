@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EygonS
 - 👀 I’m interested in all game, and LOL
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on a project that I can learn new knowledge 
+- 🌱 I’m currently learning JavaScript, IA using Tensor Flow 2.0
+- 💞️ I’m looking to collaborate on a project that I can develop my self  
 - 📫 How to reach me eygonpsaldanha@gmail.com
 
 <!---
